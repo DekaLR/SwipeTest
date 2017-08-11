@@ -30,7 +30,7 @@ public class MainActivity extends AppCompatActivity implements SwipeRefreshLayou
         LIST.add("제 1번째");
         LIST.add("제 2번째");
         LIST.add("제 3번째");
-
+//
         button = (Button) findViewById(R.id.button);
         text = (EditText) findViewById(R.id.text);
         sLayout = (SwipeRefreshLayout) findViewById(R.id.swipelayout);
